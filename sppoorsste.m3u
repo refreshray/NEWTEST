@@ -35,3 +35,5 @@ https://github.com/wandering-oldman/server1/raw/refs/heads/main/app24-sport-mono
 https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-monomax-2.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-2(2)
 https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-monomax-3.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/MUTV_logo.svg/revision/latest?cb=20100330071549",MUTV
+https://github.com/wandering-oldman/server2/raw/refs/heads/main/app24-MU-TV.m3u8
