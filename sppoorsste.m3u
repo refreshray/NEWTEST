@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/a70NzP2.png",Astro Premier League
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-astro-premier-1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/QtsG3ra.png",Astro Premier League 2
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-astro-premier-2.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/fGlfHPF.png",Astro Premier League 3
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-astro-premier-3.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro-Grandstand 
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-astro-grandstand.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.ibb.co/G4zVGddt/Hub-Premier1.png",Hub Premier 1
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-hub-premier-1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-hub-premier-2.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/0A6bP0g.png",Hub Premier 3
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-hub-premier-3.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/RTgyfAe.png",Hub Premier 4
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-hub-premier-4.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/XhX3oUI.png",Hub Premier 5
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-hub-premier-5.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/ChWdcRC.png",Sky Sport Premier League
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-skysport-PL.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/ChWdcRC.png",Sky Sport Premier League(1)
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-skysport-premier.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",Sky Sports Main Event
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-skysport-mainevent.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-1
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/app24-monomax-1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-1(1)
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/app24-sport-monomax-1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-1(2)
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-monomax-1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-2
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/app24-sport-monomax-2.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-2(1)
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-monomax-2.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="",Mono max-2(2)
+https://github.com/wandering-oldman/server1/raw/refs/heads/main/server1-sport-monomax-3.m3u8
